@@ -25,11 +25,11 @@ public class CsedemoAgent {
         return null;
     };
 
-
+    
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return "Hi,"+name+", Welcome!";
+        return "Hi, "+name+"! Wlecome to ServiceStage.";
     };
 
 

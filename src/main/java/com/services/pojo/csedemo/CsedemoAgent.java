@@ -36,7 +36,7 @@ public class CsedemoAgent {
     public String saySomething(String prefix, Person user){
 
         // Do Some Magic Here!
-        return null;
+        return "Hi, "+name+"! Wlecome to ServiceStage.";
     };
 
 }
